@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: WELCOME! 
+#description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Hahyeon Kim 
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: estherkim861029@gmail.com
 
 plugins:
   - jekyll-seo-tag
